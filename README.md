@@ -1,6 +1,6 @@
-# ADHD 뽀모도로 (ADHD Pomodoro Timer)
+# 리프레시 뽀모도로 (Refresh Pomodoro)
 
-ADHD 성향을 가진 사용자가 작업에 과몰입하여 시간 관리 및 필수 생활 루틴(식사, 휴식)을 놓치는 문제를 해결하고, 건강한 작업 리듬을 유지할 수 있도록 돕는 GUI 기반 데스크톱 타이머 프로그램입니다.
+사용자가 작업에 몰입하여 시간 관리 및 필수 생활 루틴(식사, 휴식)을 효과적으로 관리하고, 건강한 작업 리듬을 유지할 수 있도록 돕는 GUI 기반 데스크톱 타이머 프로그램입니다. 집중과 휴식의 균형을 통해 생산성을 높이고, 매일을 산뜻하게 시작할 수 있도록 지원합니다.
 
 ## 🌟 주요 기능
 
@@ -24,15 +24,15 @@ ADHD 성향을 가진 사용자가 작업에 과몰입하여 시간 관리 및 �
 
 ## ⚙️ 설정 파일
 
-- 사용자 설정은 다음 위치에 `adhd_pomodoro_settings.json` 파일로 저장됩니다:
-  - Windows: `C:\Users\<사용자이름>\AppData\Roaming\ADHD_Pomodoro`
-  - macOS: `/Users/<사용자이름>/Library/Application Support/ADHD_Pomodoro`
-  - Linux: `/home/<사용자이름>/.config/ADHD_Pomodoro`
+- 사용자 설정은 다음 위치에 `refresh_pomodoro_settings.json` 파일로 저장됩니다:
+  - Windows: `C:\Users\<사용자이름>\AppData\Roaming\RefreshPomodoro`
+  - macOS: `/Users/<사용자이름>/Library/Application Support/RefreshPomodoro`
+  - Linux: `/home/<사용자이름>/.config/RefreshPomodoro`
     (만약 위 경로에 폴더 생성 권한이 없거나 문제가 발생하면, 프로그램 실행 파일과 동일한 위치에 저장될 수 있습니다.)
 
 ## 👨‍💻 개발자
 
-- @bril-liant
+- bril_liant
 
 ## 📄 라이선스
 
